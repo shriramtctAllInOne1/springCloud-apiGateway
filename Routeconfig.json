@@ -1,0 +1,2 @@
+{"routeName":"/configService","serviceDiscoveryEnabled":"true","serviceName":"configService","serviceUrl":"","gatewayPath":"/config-service","servicePath":"/","resourceHierarchy":null,"featureFlag":null,"action":null,"oidcEnabled":null,"protocol":"http"}
+[{"routeName":"/notificationService","serviceDiscoveryEnabled":"true","serviceName":"Notificaton-service","serviceUrl":"","gatewayPath":"/notification-service","servicePath":"/","resourceHierarchy":null,"featureFlag":null,"action":null,"oidcEnabled":null,"protocol":"http"}]
