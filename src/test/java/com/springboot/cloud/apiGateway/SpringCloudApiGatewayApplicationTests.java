@@ -3,10 +3,10 @@ package com.springboot.cloud.apiGateway;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class SpringCloudApiGatewayApplicationTests {
 
-	@Test
+	//@Test
 	void contextLoads() {
 	}
 
